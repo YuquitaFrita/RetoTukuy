@@ -1,8 +1,5 @@
-<p align="center"><img src="https://avatars0.githubusercontent.com/u/40748348?s=400&u=3204bbbf9e4c7def797816d2ffae7de93e262452&v=4"></p>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/arian-angoma-vilchez/"><img src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" alt="Linkedin" style="height: 100px;
-  width: 200px;"></a>
+<h1>Reto Tukuy</h1>
 </p>
 
 ## About Laravel
